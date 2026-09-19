@@ -24,13 +24,6 @@ Target variable: SalePrice
 Data types: Numerical and categorical 
 
 The dataset contains missing values and extreme observations, making it suitable for demonstrating data preprocessing techniques. 
-
- 
-
-Dataset Source: https://github.com/topepo/AmesHousing 
-
- 
-
  
 
 Preprocessing:  
@@ -56,8 +49,3 @@ Final verification: Compared descriptive statistics and data quality before and 
  
 
 Conclusion: The preprocessing process successfully cleaned the dataset while preserving all 2,930 records. Missing values were reduced to zero, no exact duplicate records remained, and nine additional columns were created through transformation and feature engineering. The resulting dataset contains 91 columns and is prepared for further analysis. 
-
- 
-
-GitHub Repository Link: 
-https://github.com/irtizaali283/data-cleaning-and-feature-engineering.git 
